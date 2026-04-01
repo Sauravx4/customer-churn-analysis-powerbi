@@ -72,15 +72,15 @@ The business was facing a critical **57.3% churn rate**, putting **$697,000 in M
 
 ### 1. The Executive Pulse (Financial KPIs)
 *(Showcases total risk, current churn rate, and plan-level breakdown)*
-<img src="link-to-your-kpi-image.png" width="80%">
+<img src="https://github.com/Sauravx4/Saurav/blob/main/The%20Executive%20Pulse.png" width="80%">
 
 ### 2. User Engagement Density (Behavioral Analysis)
 *(Highlights the specific usage hours where churn risk is highest)*
-<img src="link-to-your-density-plot-image.png" width="80%">
+<img src="https://github.com/Sauravx4/Saurav/blob/main/User%20Engagement%20Density.png" width="80%">
 
 ### 3. The Billing Danger Zone
 *(Visualizes the direct correlation between payment failures and attrition)*
-<img src="link-to-your-payment-failure-image.png" width="80%">
+<img src="https://github.com/Sauravx4/Saurav/blob/main/The%20Billing%20Danger%20Zone.png" width="80%">
 
 ---
 
