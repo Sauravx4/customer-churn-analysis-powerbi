@@ -8,7 +8,7 @@
 > **"Transforming behavioral data into strategic retention intelligence."**
 
 <div align="center">
-  <img src="link-to-your-main-dashboard-image.png" alt="VIZ-ly Executive Dashboard" width="100%">
+  <img src="https://raw.githubusercontent.com/Sauravx4/Churn_Project/main/customer_subscription_churn_usage_patterns_dashboard.png" alt="VIZ-ly Executive Dashboard" width="100%">
 </div>
 
 ---
